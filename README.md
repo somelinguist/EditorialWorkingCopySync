@@ -1,4 +1,4 @@
-# Editorial <-> Working Copy
+# Editorial -> Working Copy
 Shortcut to sync repositories between Working Copy and Editorial.
 
 ## Requirements
