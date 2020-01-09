@@ -26,7 +26,7 @@ Follow the instructions in the Import Questions to install the necessary Editori
 ![shortcut options](/shortcut_options.jpg)
 
 ## How it works
-Folders and files are converted to and from JSON inorder to pass them between Editorial and the shortcut. Text files are passed as text, while binary files are b64encoded and decoded.
+Folders and files are converted to and from JSON in order to pass them between Editorial and the shortcut. Text files are passed as text, while binary files are b64encoded and decoded.
 
 ---
 <a name="footnote">1.</a> Scriptable is needed to get the relative paths of the files in the Working Copy repo. Thanks to [@palmin](https://twitter.com/palmin) for suggesting this. The latest version of Scriptable is needed to run the inline script included in the shortcut .
